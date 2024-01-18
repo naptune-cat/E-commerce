@@ -1,0 +1,121 @@
+.boxTitle{
+    font-size: 50px;
+    line-height: 50px;
+    color: #3e402d;
+    text-transform: initial;
+    font-family: NYTMagSerifHeadlineWEB-Bold;
+    letter-spacing: inherit;
+}
+
+.des{
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #27221d!important;
+    padding-bottom: 50px;
+    font-weight: 400;
+}
+
+.anAccount{
+    margin: 40px auto 70px;
+    border: 1px solid #ddd;
+    background: #F9F2EA!important;
+    padding: 20px!important;
+}
+
+.EmailLa,.PassLa{
+    display: flex;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: #27221d;
+    padding-top: 30px;
+
+}
+
+.inputSec{
+    background: #F9F2EA;
+    border: none;
+    border-bottom: 1px solid #313323;
+    font-size: 20px;
+    line-height: 30px;
+    color: #27221d;
+    padding: 0;
+    cursor:auto;
+    padding-top:6px;
+}
+
+.AccBtn{
+    background: rgba(62,64,49,.4)!important;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff!important;
+    text-transform: initial;
+    width: 100%!important;
+    max-width: 100%!important;
+    max-height: initial;
+    margin-bottom: 0;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.FirstLa, .LastLa {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: #27221d;
+}
+
+.NameSection{
+display: flex;
+justify-content: space-between;
+padding-top: 30px;
+}
+
+.InputSection{
+    display: flex;
+    justify-content: space-between ;
+}
+
+.inputSec1{
+    background: #F9F2EA;
+    border: none;
+    border-bottom: 1px solid #313323;
+    font-size: 20px;
+    line-height: 30px;
+    color: #27221d;
+    padding-right: 15px;
+    cursor:auto;
+    padding-top:6px;
+
+}
+.inputSec2{
+    background: #F9F2EA;
+    border: none;
+    border-bottom: 1px solid #313323;
+    font-size: 20px;
+    line-height: 30px;
+    color: #27221d;
+    padding-left: 15px;
+    cursor:auto;
+    padding-top:6px;
+
+}
+
+.inputSec11 {
+    width: 40rem !important;
+    height: 2rem;
+    background: transparent;
+    border: #F9F2EA;
+}
+
+.inputSec12{
+    width: 20rem !important;
+    background: transparent;
+    border: #F9F2EA;
+}
